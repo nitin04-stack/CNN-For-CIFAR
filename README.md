@@ -1,6 +1,6 @@
 # CNN Image Classifier — CIFAR-10
 Built a Convolutional Neural Network from scratch using PyTorch to classify images into 10 different categories. 
-Trained on the CIFAR-10 benchmark dataset using a T4 GPU on Google Colab and achieved **76.03% test accuracy** in 10 epochs.
+Trained on the CIFAR-10 benchmark dataset using a T4 GPU on Google Colab and achieved **75.5% test accuracy** in 10 epochs.
 
 ## What is CIFAR-10?
 CIFAR-10 is one of the most well-known datasets in computer vision. It contains 60,000 color images (32×32 pixels) split across 10 classes:
